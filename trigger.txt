@@ -1,1 +1,1 @@
-homeassistant/home-assistant:2024.6 registry.cn-beijing.aliyuncs.com/ucascyl/home-assistant:2024.6
+mysql:8.0.37 registry.cn-beijing.aliyuncs.com/ucascyl/mysql:8.0.37
