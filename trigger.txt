@@ -1,1 +1,1 @@
-portainer/portainer-ce:2.20.3-alpine registry.cn-beijing.aliyuncs.com/ucascyl/portainer.portainer-ce:2.20.3-alpine
+gitlab/gitlab-ce:latest registry.cn-beijing.aliyuncs.com/ucascyl/gitlab-ce:latest
