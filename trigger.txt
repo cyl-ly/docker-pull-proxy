@@ -1,1 +1,1 @@
-mysql:8.0.37 registry.cn-beijing.aliyuncs.com/ucascyl/mysql:8.0.37
+redis:7.4-rc1 registry.cn-beijing.aliyuncs.com/ucascyl/redis:7.4-rc1
