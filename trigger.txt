@@ -1,1 +1,1 @@
-gitlab/gitlab-ce:latest registry.cn-beijing.aliyuncs.com/ucascyl/gitlab-ce:latest
+nginx:latest registry.cn-beijing.aliyuncs.com/ucascyl/nginx:latest
