@@ -1,1 +1,1 @@
-cloudreve/cloudreve:latest registry.cn-beijing.aliyuncs.com/ucascyl/cloudreve:latest
+openjdk:8 registry.cn-beijing.aliyuncs.com/ucascyl/openjdk:8
