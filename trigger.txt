@@ -1,2 +1,1 @@
-nvidia/cuda:12.4.1-cudnn-devel-ubuntu22.04 registry.cn-beijing.aliyuncs.com/ucascyl/nvidia-cuda:12.4.1-cudnn-devel-ubuntu22.04
-
+ollama/ollama:latest registry.cn-beijing.aliyuncs.com/ucascyl/ollama:latest
