@@ -1,1 +1,1 @@
-ollama/ollama:latest registry.cn-beijing.aliyuncs.com/ucascyl/ollama:latest
+debian:stretch-slim registry.cn-beijing.aliyuncs.com/ucascyl/debian:stretch-slim
